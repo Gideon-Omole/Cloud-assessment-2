@@ -1,5 +1,5 @@
 locals {
-  env         = "staging"
+  env         = "production"
   region      = "eu-west-2"
   zone1       = "eu-west-2a"
   zone2       = "eu-west-2b"
