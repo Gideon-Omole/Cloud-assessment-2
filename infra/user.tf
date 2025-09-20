@@ -1,5 +1,5 @@
 resource "aws_iam_user" "developer" {
-  name = "innocent"
+  name = "developer"
 }
 
 resource "aws_iam_policy" "developer-eks" {
